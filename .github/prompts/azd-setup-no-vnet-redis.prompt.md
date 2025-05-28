@@ -4,7 +4,7 @@ mode: 'agent'
 
 # Azure Developer CLI Setup
 ## Instructions
-I need your assistance in setting up Azure Developer CLI (azd) configuration for a Python web application that uses PostgreSQL. Please help me with the following tasks:
+I need your assistance in setting up Azure Developer CLI (azd) configuration for my Python web application that uses PostgreSQL. Please help me with the following tasks:
 
 ## Task 1: Required Azure Resources
 The infrastructure should include these Azure services:
