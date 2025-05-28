@@ -1,5 +1,5 @@
 ---
-applyTo: '**/.github/prompts/azd-setup.prompt.md'
+applyTo: '**/.github/prompts/**.md'
 description: 'Azure Developer CLI Setup Instructions'
 ---
 Coding standards, domain knowledge, and preferences that AI should follow.
